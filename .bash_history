@@ -35,3 +35,6 @@ nano /etc/dhcp/dhcpd.conf
 sudo nano /etc/dhcp/dhcpd.conf
 sudo service isc-dhcp-server restart
 sudo su 
+sudo su
+taskkill chrome
+taskkill google chrome

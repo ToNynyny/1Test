@@ -2,3 +2,795 @@ WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isCo
 pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
 pbs<@resource://unity/observer.js:38:71
 Observer.prototype.observe@resource://unity/observer.js:77:24
+get_contentWindow@chrome://global/content/bindings/browser.xml:412:54
+get_securityUI@chrome://global/content/bindings/browser.xml:662:17
+browser_XBL_Constructor@chrome://global/content/bindings/browser.xml:786:17
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+
+(firefox:2186): Gtk-CRITICAL **: IA__gtk_clipboard_set_with_data: assertion 'targets != NULL' failed
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+
+(firefox:2186): Gtk-CRITICAL **: IA__gtk_clipboard_set_with_data: assertion 'targets != NULL' failed
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+It@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:172:200
+Ht.prototype.open@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:172:285
+Ht@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:171:182
+_.k.ah/<@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:204:266
+_.k.Nd@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:196:141
+sa.prototype.Pa@https://www.google.pl/?gws_rd=ssl:21:129
+ta.prototype.Pa@https://www.google.pl/?gws_rd=ssl:22:249
+@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:252:115
+_.Yg@https://www.google.pl/?gws_rd=ssl:162:180
+@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:252:1
+@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:2:1
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+Ht.prototype.open@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:172:326
+Ht@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:171:182
+_.k.ah/<@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:204:266
+_.k.Nd@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:196:141
+sa.prototype.Pa@https://www.google.pl/?gws_rd=ssl:21:129
+ta.prototype.Pa@https://www.google.pl/?gws_rd=ssl:22:249
+@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:252:115
+_.Yg@https://www.google.pl/?gws_rd=ssl:162:180
+@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:252:1
+@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:2:1
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+s_Me.ma/a@https://www.google.pl/xjs/_/js/k=xjs.s.pl.KmS3OQcm9JU.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,d,csi/am=wCJGjhccAPk_IRQStxAWyAImDiA/rt=j/d=1/t=zcms/rs=ACT90oGbusXIPt2NgCK3dJkDoL3hCUwx6A:156:289
+s_Me.ma@https://www.google.pl/xjs/_/js/k=xjs.s.pl.KmS3OQcm9JU.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,d,csi/am=wCJGjhccAPk_IRQStxAWyAImDiA/rt=j/d=1/t=zcms/rs=ACT90oGbusXIPt2NgCK3dJkDoL3hCUwx6A:157:194
+s_Me@https://www.google.pl/xjs/_/js/k=xjs.s.pl.KmS3OQcm9JU.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,d,csi/am=wCJGjhccAPk_IRQStxAWyAImDiA/rt=j/d=1/t=zcms/rs=ACT90oGbusXIPt2NgCK3dJkDoL3hCUwx6A:155:196
+s_H.qc@https://www.google.pl/xjs/_/js/k=xjs.s.pl.KmS3OQcm9JU.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,d,csi/am=wCJGjhccAPk_IRQStxAWyAImDiA/rt=j/d=1/t=zcms/rs=ACT90oGbusXIPt2NgCK3dJkDoL3hCUwx6A:245:173
+s__Gb.init@https://www.google.pl/xjs/_/js/k=xjs.s.pl.KmS3OQcm9JU.O/m=aa,abd,async,dvl,foot,fpe,ipv6,lu,m,sf,tl,vs,d3l,tnv,mrn,abn,attl,adinfo,dpc,apmf,me,atn/am=wCJGjhccAPk_IRQStxAWyAImDiA/exm=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,d,csi/rt=j/d=1/ed=1/t=zcms/rs=ACT90oGbusXIPt2NgCK3dJkDoL3hCUwx6A:50:613
+s_Hda@https://www.google.pl/xjs/_/js/k=xjs.s.pl.KmS3OQcm9JU.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,d,csi/am=wCJGjhccAPk_IRQStxAWyAImDiA/rt=j/d=1/t=zcms/rs=ACT90oGbusXIPt2NgCK3dJkDoL3hCUwx6A:179:102
+s_f/<@https://www.google.pl/xjs/_/js/k=xjs.s.pl.KmS3OQcm9JU.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,d,csi/am=wCJGjhccAPk_IRQStxAWyAImDiA/rt=j/d=1/t=zcms/rs=ACT90oGbusXIPt2NgCK3dJkDoL3hCUwx6A:34:435
+s_Ida/<@https://www.google.pl/xjs/_/js/k=xjs.s.pl.KmS3OQcm9JU.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,d,csi/am=wCJGjhccAPk_IRQStxAWyAImDiA/rt=j/d=1/t=zcms/rs=ACT90oGbusXIPt2NgCK3dJkDoL3hCUwx6A:178:375
+s_i@https://www.google.pl/xjs/_/js/k=xjs.s.pl.KmS3OQcm9JU.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,d,csi/am=wCJGjhccAPk_IRQStxAWyAImDiA/rt=j/d=1/t=zcms/rs=ACT90oGbusXIPt2NgCK3dJkDoL3hCUwx6A:42:129
+s_Ida@https://www.google.pl/xjs/_/js/k=xjs.s.pl.KmS3OQcm9JU.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,d,csi/am=wCJGjhccAPk_IRQStxAWyAImDiA/rt=j/d=1/t=zcms/rs=ACT90oGbusXIPt2NgCK3dJkDoL3hCUwx6A:178:353
+s_vd/<@https://www.google.pl/xjs/_/js/k=xjs.s.pl.KmS3OQcm9JU.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,d,csi/am=wCJGjhccAPk_IRQStxAWyAImDiA/rt=j/d=1/t=zcms/rs=ACT90oGbusXIPt2NgCK3dJkDoL3hCUwx6A:109:374
+s_Sda@https://www.google.pl/xjs/_/js/k=xjs.s.pl.KmS3OQcm9JU.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,d,csi/am=wCJGjhccAPk_IRQStxAWyAImDiA/rt=j/d=1/t=zcms/rs=ACT90oGbusXIPt2NgCK3dJkDoL3hCUwx6A:194:326
+s_Rda@https://www.google.pl/xjs/_/js/k=xjs.s.pl.KmS3OQcm9JU.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,d,csi/am=wCJGjhccAPk_IRQStxAWyAImDiA/rt=j/d=1/t=zcms/rs=ACT90oGbusXIPt2NgCK3dJkDoL3hCUwx6A:192:50
+s_uf.prototype.Kk@https://www.google.pl/xjs/_/js/k=xjs.s.pl.KmS3OQcm9JU.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,d,csi/am=wCJGjhccAPk_IRQStxAWyAImDiA/rt=j/d=1/t=zcms/rs=ACT90oGbusXIPt2NgCK3dJkDoL3hCUwx6A:192:167
+s_Cf.prototype.rb@https://www.google.pl/xjs/_/js/k=xjs.s.pl.KmS3OQcm9JU.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,d,csi/am=wCJGjhccAPk_IRQStxAWyAImDiA/rt=j/d=1/t=zcms/rs=ACT90oGbusXIPt2NgCK3dJkDoL3hCUwx6A:213:396
+s_Sda@https://www.google.pl/xjs/_/js/k=xjs.s.pl.KmS3OQcm9JU.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,d,csi/am=wCJGjhccAPk_IRQStxAWyAImDiA/rt=j/d=1/t=zcms/rs=ACT90oGbusXIPt2NgCK3dJkDoL3hCUwx6A:194:326
+s_Rda@https://www.google.pl/xjs/_/js/k=xjs.s.pl.KmS3OQcm9JU.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,d,csi/am=wCJGjhccAPk_IRQStxAWyAImDiA/rt=j/d=1/t=zcms/rs=ACT90oGbusXIPt2NgCK3dJkDoL3hCUwx6A:192:50
+s_uf.prototype.Kk@https://www.google.pl/xjs/_/js/k=xjs.s.pl.KmS3OQcm9JU.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,d,csi/am=wCJGjhccAPk_IRQStxAWyAImDiA/rt=j/d=1/t=zcms/rs=ACT90oGbusXIPt2NgCK3dJkDoL3hCUwx6A:192:167
+s_of.prototype.execute@https://www.google.pl/xjs/_/js/k=xjs.s.pl.KmS3OQcm9JU.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,d,csi/am=wCJGjhccAPk_IRQStxAWyAImDiA/rt=j/d=1/t=zcms/rs=ACT90oGbusXIPt2NgCK3dJkDoL3hCUwx6A:180:544
+s_Nda@https://www.google.pl/xjs/_/js/k=xjs.s.pl.KmS3OQcm9JU.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,d,csi/am=wCJGjhccAPk_IRQStxAWyAImDiA/rt=j/d=1/t=zcms/rs=ACT90oGbusXIPt2NgCK3dJkDoL3hCUwx6A:181:317
+s_Wca@https://www.google.pl/xjs/_/js/k=xjs.s.pl.KmS3OQcm9JU.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,d,csi/am=wCJGjhccAPk_IRQStxAWyAImDiA/rt=j/d=1/t=zcms/rs=ACT90oGbusXIPt2NgCK3dJkDoL3hCUwx6A:181:92
+s_E@https://www.google.pl/xjs/_/js/k=xjs.s.pl.KmS3OQcm9JU.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,d,csi/am=wCJGjhccAPk_IRQStxAWyAImDiA/rt=j/d=1/t=zcms/rs=ACT90oGbusXIPt2NgCK3dJkDoL3hCUwx6A:201:85
+@https://www.google.pl/xjs/_/js/k=xjs.s.pl.KmS3OQcm9JU.O/m=aa,abd,async,dvl,foot,fpe,ipv6,lu,m,sf,tl,vs,d3l,tnv,mrn,abn,attl,adinfo,dpc,apmf,me,atn/am=wCJGjhccAPk_IRQStxAWyAImDiA/exm=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,d,csi/rt=j/d=1/ed=1/t=zcms/rs=ACT90oGbusXIPt2NgCK3dJkDoL3hCUwx6A:818:1
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+It@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:172:200
+Ht.prototype.open@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:172:285
+Ht@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:171:182
+_.k.ah/<@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:204:266
+_.k.Nd@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:196:141
+sa.prototype.Pa@https://www.google.pl/search?source=hp&q=firefox+update&oq=firefox+up&gs_l=psy-ab.3.0.0l4.321.1702.0.2437.10.10.0.0.0.0.124.863.8j2.10.0....0...1.1.64.psy-ab..0.10.859...0i131k1.OmiHrc1anm4:21:129
+ta.prototype.Pa@https://www.google.pl/search?source=hp&q=firefox+update&oq=firefox+up&gs_l=psy-ab.3.0.0l4.321.1702.0.2437.10.10.0.0.0.0.124.863.8j2.10.0....0...1.1.64.psy-ab..0.10.859...0i131k1.OmiHrc1anm4:22:249
+@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:252:115
+_.Yg@https://www.google.pl/search?source=hp&q=firefox+update&oq=firefox+up&gs_l=psy-ab.3.0.0l4.321.1702.0.2437.10.10.0.0.0.0.124.863.8j2.10.0....0...1.1.64.psy-ab..0.10.859...0i131k1.OmiHrc1anm4:214:180
+@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:252:1
+@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:2:1
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+Ht.prototype.open@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:172:326
+Ht@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:171:182
+_.k.ah/<@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:204:266
+_.k.Nd@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:196:141
+sa.prototype.Pa@https://www.google.pl/search?source=hp&q=firefox+update&oq=firefox+up&gs_l=psy-ab.3.0.0l4.321.1702.0.2437.10.10.0.0.0.0.124.863.8j2.10.0....0...1.1.64.psy-ab..0.10.859...0i131k1.OmiHrc1anm4:21:129
+ta.prototype.Pa@https://www.google.pl/search?source=hp&q=firefox+update&oq=firefox+up&gs_l=psy-ab.3.0.0l4.321.1702.0.2437.10.10.0.0.0.0.124.863.8j2.10.0....0...1.1.64.psy-ab..0.10.859...0i131k1.OmiHrc1anm4:22:249
+@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:252:115
+_.Yg@https://www.google.pl/search?source=hp&q=firefox+update&oq=firefox+up&gs_l=psy-ab.3.0.0l4.321.1702.0.2437.10.10.0.0.0.0.124.863.8j2.10.0....0...1.1.64.psy-ab..0.10.859...0i131k1.OmiHrc1anm4:214:180
+@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:252:1
+@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:2:1
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:13593:9
+_callProgressListeners/<@chrome://browser/content/tabbrowser.xml:539:24
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:536:13
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:583:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:737:1
+s_9d@https://www.google.pl/xjs/_/js/k=xjs.s.pl.KmS3OQcm9JU.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,d,csi/am=wCJGjhccAPk_IRQStxAWyAImDiA/rt=j/d=1/t=zcms/rs=ACT90oGbusXIPt2NgCK3dJkDoL3hCUwx6A:137:49
+s_ne@https://www.google.pl/xjs/_/js/k=xjs.s.pl.KmS3OQcm9JU.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,d,csi/am=wCJGjhccAPk_IRQStxAWyAImDiA/rt=j/d=1/t=zcms/rs=ACT90oGbusXIPt2NgCK3dJkDoL3hCUwx6A:140:265
+@https://www.google.pl/xjs/_/js/k=xjs.s.pl.KmS3OQcm9JU.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,d,csi/am=wCJGjhccAPk_IRQStxAWyAImDiA/rt=j/d=1/t=zcms/rs=ACT90oGbusXIPt2NgCK3dJkDoL3hCUwx6A:1000:277
+s_Dba@https://www.google.pl/xjs/_/js/k=xjs.s.pl.KmS3OQcm9JU.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,d,csi/am=wCJGjhccAPk_IRQStxAWyAImDiA/rt=j/d=1/t=zcms/rs=ACT90oGbusXIPt2NgCK3dJkDoL3hCUwx6A:75:397
+s_Bba@https://www.google.pl/xjs/_/js/k=xjs.s.pl.KmS3OQcm9JU.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,d,csi/am=wCJGjhccAPk_IRQStxAWyAImDiA/rt=j/d=1/t=zcms/rs=ACT90oGbusXIPt2NgCK3dJkDoL3hCUwx6A:76:415
+s_zba/b<@https://www.google.pl/xjs/_/js/k=xjs.s.pl.KmS3OQcm9JU.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,d,csi/am=wCJGjhccAPk_IRQStxAWyAImDiA/rt=j/d=1/t=zcms/rs=ACT90oGbusXIPt2NgCK3dJkDoL3hCUwx6A:73:219
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+get_contentWindow@chrome://global/content/bindings/browser.xml:412:54
+get_securityUI@chrome://global/content/bindings/browser.xml:662:17
+browser_XBL_Constructor@chrome://global/content/bindings/browser.xml:786:17
+HiddenBrowser.prototype._createBrowser/<@resource://app/modules/CustomizationTabPreloader.jsm:151:7
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:865:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:744:7
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+@chrome://browser/content/content.js:37:5
+addTab@chrome://browser/content/tabbrowser.xml:1642:13
+loadOneTab@chrome://browser/content/tabbrowser.xml:1378:23
+openLinkIn@chrome://browser/content/utilityOverlay.js:331:14
+openUILinkIn@chrome://browser/content/utilityOverlay.js:200:3
+BG_observe@resource://app/components/nsBrowserGlue.js:320:13
+open@chrome://global/content/bindings/text.xml:356:1
+onxblclick@chrome://global/content/bindings/text.xml:375:1
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+[2318:2355:0913/111136.947418:FATAL:nss_util.cc(632)] NSS_VersionCheck("3.26") failed. NSS >= 3.26 is required. Please upgrade to the latest NSS, and if you still get this error, contact your distribution maintainer.
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+s_Me.ma/a@https://www.google.pl/xjs/_/js/k=xjs.s.pl.KmS3OQcm9JU.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,d,csi/am=wCJGjhccAPk_IRQStxAWyAImDiA/rt=j/d=1/t=zcms/rs=ACT90oGbusXIPt2NgCK3dJkDoL3hCUwx6A:156:289
+s_Me.ma@https://www.google.pl/xjs/_/js/k=xjs.s.pl.KmS3OQcm9JU.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,d,csi/am=wCJGjhccAPk_IRQStxAWyAImDiA/rt=j/d=1/t=zcms/rs=ACT90oGbusXIPt2NgCK3dJkDoL3hCUwx6A:157:194
+s_Me@https://www.google.pl/xjs/_/js/k=xjs.s.pl.KmS3OQcm9JU.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,d,csi/am=wCJGjhccAPk_IRQStxAWyAImDiA/rt=j/d=1/t=zcms/rs=ACT90oGbusXIPt2NgCK3dJkDoL3hCUwx6A:155:196
+s_H.qc@https://www.google.pl/xjs/_/js/k=xjs.s.pl.KmS3OQcm9JU.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,d,csi/am=wCJGjhccAPk_IRQStxAWyAImDiA/rt=j/d=1/t=zcms/rs=ACT90oGbusXIPt2NgCK3dJkDoL3hCUwx6A:245:173
+s__Gb.init@https://www.google.pl/xjs/_/js/k=xjs.s.pl.KmS3OQcm9JU.O/m=aa,abd,async,dvl,foot,fpe,ipv6,lu,m,sf,tl,vs,d3l,tnv,mrn,abn,attl,adinfo,dpc,apmf,me,atn/am=wCJGjhccAPk_IRQStxAWyAImDiA/exm=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,d,csi/rt=j/d=1/ed=1/t=zcms/rs=ACT90oGbusXIPt2NgCK3dJkDoL3hCUwx6A:50:613
+s_Hda@https://www.google.pl/xjs/_/js/k=xjs.s.pl.KmS3OQcm9JU.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,d,csi/am=wCJGjhccAPk_IRQStxAWyAImDiA/rt=j/d=1/t=zcms/rs=ACT90oGbusXIPt2NgCK3dJkDoL3hCUwx6A:179:102
+s_f/<@https://www.google.pl/xjs/_/js/k=xjs.s.pl.KmS3OQcm9JU.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,d,csi/am=wCJGjhccAPk_IRQStxAWyAImDiA/rt=j/d=1/t=zcms/rs=ACT90oGbusXIPt2NgCK3dJkDoL3hCUwx6A:34:435
+s_Ida/<@https://www.google.pl/xjs/_/js/k=xjs.s.pl.KmS3OQcm9JU.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,d,csi/am=wCJGjhccAPk_IRQStxAWyAImDiA/rt=j/d=1/t=zcms/rs=ACT90oGbusXIPt2NgCK3dJkDoL3hCUwx6A:178:375
+s_i@https://www.google.pl/xjs/_/js/k=xjs.s.pl.KmS3OQcm9JU.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,d,csi/am=wCJGjhccAPk_IRQStxAWyAImDiA/rt=j/d=1/t=zcms/rs=ACT90oGbusXIPt2NgCK3dJkDoL3hCUwx6A:42:129
+s_Ida@https://www.google.pl/xjs/_/js/k=xjs.s.pl.KmS3OQcm9JU.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,d,csi/am=wCJGjhccAPk_IRQStxAWyAImDiA/rt=j/d=1/t=zcms/rs=ACT90oGbusXIPt2NgCK3dJkDoL3hCUwx6A:178:353
+s_vd/<@https://www.google.pl/xjs/_/js/k=xjs.s.pl.KmS3OQcm9JU.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,d,csi/am=wCJGjhccAPk_IRQStxAWyAImDiA/rt=j/d=1/t=zcms/rs=ACT90oGbusXIPt2NgCK3dJkDoL3hCUwx6A:109:374
+s_Sda@https://www.google.pl/xjs/_/js/k=xjs.s.pl.KmS3OQcm9JU.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,d,csi/am=wCJGjhccAPk_IRQStxAWyAImDiA/rt=j/d=1/t=zcms/rs=ACT90oGbusXIPt2NgCK3dJkDoL3hCUwx6A:194:326
+s_Rda@https://www.google.pl/xjs/_/js/k=xjs.s.pl.KmS3OQcm9JU.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,d,csi/am=wCJGjhccAPk_IRQStxAWyAImDiA/rt=j/d=1/t=zcms/rs=ACT90oGbusXIPt2NgCK3dJkDoL3hCUwx6A:192:50
+s_uf.prototype.Kk@https://www.google.pl/xjs/_/js/k=xjs.s.pl.KmS3OQcm9JU.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,d,csi/am=wCJGjhccAPk_IRQStxAWyAImDiA/rt=j/d=1/t=zcms/rs=ACT90oGbusXIPt2NgCK3dJkDoL3hCUwx6A:192:167
+s_Cf.prototype.rb@https://www.google.pl/xjs/_/js/k=xjs.s.pl.KmS3OQcm9JU.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,d,csi/am=wCJGjhccAPk_IRQStxAWyAImDiA/rt=j/d=1/t=zcms/rs=ACT90oGbusXIPt2NgCK3dJkDoL3hCUwx6A:213:396
+s_Sda@https://www.google.pl/xjs/_/js/k=xjs.s.pl.KmS3OQcm9JU.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,d,csi/am=wCJGjhccAPk_IRQStxAWyAImDiA/rt=j/d=1/t=zcms/rs=ACT90oGbusXIPt2NgCK3dJkDoL3hCUwx6A:194:326
+s_Rda@https://www.google.pl/xjs/_/js/k=xjs.s.pl.KmS3OQcm9JU.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,d,csi/am=wCJGjhccAPk_IRQStxAWyAImDiA/rt=j/d=1/t=zcms/rs=ACT90oGbusXIPt2NgCK3dJkDoL3hCUwx6A:192:50
+s_uf.prototype.Kk@https://www.google.pl/xjs/_/js/k=xjs.s.pl.KmS3OQcm9JU.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,d,csi/am=wCJGjhccAPk_IRQStxAWyAImDiA/rt=j/d=1/t=zcms/rs=ACT90oGbusXIPt2NgCK3dJkDoL3hCUwx6A:192:167
+s_of.prototype.execute@https://www.google.pl/xjs/_/js/k=xjs.s.pl.KmS3OQcm9JU.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,d,csi/am=wCJGjhccAPk_IRQStxAWyAImDiA/rt=j/d=1/t=zcms/rs=ACT90oGbusXIPt2NgCK3dJkDoL3hCUwx6A:180:544
+s_Nda@https://www.google.pl/xjs/_/js/k=xjs.s.pl.KmS3OQcm9JU.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,d,csi/am=wCJGjhccAPk_IRQStxAWyAImDiA/rt=j/d=1/t=zcms/rs=ACT90oGbusXIPt2NgCK3dJkDoL3hCUwx6A:181:317
+s_Wca@https://www.google.pl/xjs/_/js/k=xjs.s.pl.KmS3OQcm9JU.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,d,csi/am=wCJGjhccAPk_IRQStxAWyAImDiA/rt=j/d=1/t=zcms/rs=ACT90oGbusXIPt2NgCK3dJkDoL3hCUwx6A:181:92
+s_E@https://www.google.pl/xjs/_/js/k=xjs.s.pl.KmS3OQcm9JU.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,d,csi/am=wCJGjhccAPk_IRQStxAWyAImDiA/rt=j/d=1/t=zcms/rs=ACT90oGbusXIPt2NgCK3dJkDoL3hCUwx6A:201:85
+@https://www.google.pl/xjs/_/js/k=xjs.s.pl.KmS3OQcm9JU.O/m=aa,abd,async,dvl,foot,fpe,ipv6,lu,m,sf,tl,vs,d3l,tnv,mrn,abn,attl,adinfo,dpc,apmf,me,atn/am=wCJGjhccAPk_IRQStxAWyAImDiA/exm=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,d,csi/rt=j/d=1/ed=1/t=zcms/rs=ACT90oGbusXIPt2NgCK3dJkDoL3hCUwx6A:818:1
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+It@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:172:200
+Ht.prototype.open@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:172:285
+Ht@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:171:182
+_.k.ah/<@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:204:266
+_.k.Nd@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:196:141
+sa.prototype.Pa@https://www.google.pl/search?source=hp&q=firefox+update&oq=firefox+up&gs_l=psy-ab.3.0.0l4.321.1702.0.2437.10.10.0.0.0.0.124.863.8j2.10.0....0...1.1.64.psy-ab..0.10.859...0i131k1.OmiHrc1anm4:21:129
+ta.prototype.Pa@https://www.google.pl/search?source=hp&q=firefox+update&oq=firefox+up&gs_l=psy-ab.3.0.0l4.321.1702.0.2437.10.10.0.0.0.0.124.863.8j2.10.0....0...1.1.64.psy-ab..0.10.859...0i131k1.OmiHrc1anm4:22:249
+@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:252:115
+_.Yg@https://www.google.pl/search?source=hp&q=firefox+update&oq=firefox+up&gs_l=psy-ab.3.0.0l4.321.1702.0.2437.10.10.0.0.0.0.124.863.8j2.10.0....0...1.1.64.psy-ab..0.10.859...0i131k1.OmiHrc1anm4:214:180
+@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:252:1
+@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:2:1
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+Ht.prototype.open@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:172:326
+Ht@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:171:182
+_.k.ah/<@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:204:266
+_.k.Nd@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:196:141
+sa.prototype.Pa@https://www.google.pl/search?source=hp&q=firefox+update&oq=firefox+up&gs_l=psy-ab.3.0.0l4.321.1702.0.2437.10.10.0.0.0.0.124.863.8j2.10.0....0...1.1.64.psy-ab..0.10.859...0i131k1.OmiHrc1anm4:21:129
+ta.prototype.Pa@https://www.google.pl/search?source=hp&q=firefox+update&oq=firefox+up&gs_l=psy-ab.3.0.0l4.321.1702.0.2437.10.10.0.0.0.0.124.863.8j2.10.0....0...1.1.64.psy-ab..0.10.859...0i131k1.OmiHrc1anm4:22:249
+@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:252:115
+_.Yg@https://www.google.pl/search?source=hp&q=firefox+update&oq=firefox+up&gs_l=psy-ab.3.0.0l4.321.1702.0.2437.10.10.0.0.0.0.124.863.8j2.10.0....0...1.1.64.psy-ab..0.10.859...0i131k1.OmiHrc1anm4:214:180
+@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:252:1
+@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:2:1
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+[2366:2403:0913/111211.906428:FATAL:nss_util.cc(632)] NSS_VersionCheck("3.26") failed. NSS >= 3.26 is required. Please upgrade to the latest NSS, and if you still get this error, contact your distribution maintainer.
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+@chrome://browser/content/content.js:37:5
+addTab@chrome://browser/content/tabbrowser.xml:1642:13
+loadOneTab@chrome://browser/content/tabbrowser.xml:1378:23
+openLinkIn@chrome://browser/content/utilityOverlay.js:331:14
+openUILinkIn@chrome://browser/content/utilityOverlay.js:200:3
+BrowserOpenTab@chrome://browser/content/browser.js:11162:3
+BrowserOpenNewTabOrWindow@chrome://browser/content/browser.js:16565:5
+oncommand@chrome://browser/content/browser.xul:1:1
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+get_contentWindow@chrome://global/content/bindings/browser.xml:412:54
+get_securityUI@chrome://global/content/bindings/browser.xml:662:17
+browser_XBL_Constructor@chrome://global/content/bindings/browser.xml:786:17
+HiddenBrowser.prototype._createBrowser/<@resource://app/modules/BrowserNewTabPreloader.jsm:301:7
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:865:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:744:7
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+It@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:172:200
+Ht.prototype.open@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:172:285
+Ht@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:171:182
+_.k.ah/<@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:204:266
+_.k.Nd@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:196:141
+sa.prototype.Pa@https://www.google.pl/?gws_rd=ssl:21:129
+ta.prototype.Pa@https://www.google.pl/?gws_rd=ssl:22:249
+@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:252:115
+_.Yg@https://www.google.pl/?gws_rd=ssl:162:180
+@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:252:1
+@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:2:1
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+Ht.prototype.open@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:172:326
+Ht@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:171:182
+_.k.ah/<@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:204:266
+_.k.Nd@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:196:141
+sa.prototype.Pa@https://www.google.pl/?gws_rd=ssl:21:129
+ta.prototype.Pa@https://www.google.pl/?gws_rd=ssl:22:249
+@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:252:115
+_.Yg@https://www.google.pl/?gws_rd=ssl:162:180
+@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:252:1
+@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:2:1
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+It@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:172:200
+Ht.prototype.open@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:172:285
+Ht@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:171:182
+_.k.ah/<@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:204:266
+_.k.Nd@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:196:141
+sa.prototype.Pa@https://www.google.pl/search?source=hp&q=google+chrome&oq=google+chrome&gs_l=psy-ab.3..0l4.340.2723.0.2879.17.14.3.0.0.0.122.1274.8j6.14.0....0...1.1.64.psy-ab..0.17.1294...0i131k1j0i10k1._yhSj2HVm1k:21:129
+ta.prototype.Pa@https://www.google.pl/search?source=hp&q=google+chrome&oq=google+chrome&gs_l=psy-ab.3..0l4.340.2723.0.2879.17.14.3.0.0.0.122.1274.8j6.14.0....0...1.1.64.psy-ab..0.17.1294...0i131k1j0i10k1._yhSj2HVm1k:22:249
+@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:252:115
+_.Yg@https://www.google.pl/search?source=hp&q=google+chrome&oq=google+chrome&gs_l=psy-ab.3..0l4.340.2723.0.2879.17.14.3.0.0.0.122.1274.8j6.14.0....0...1.1.64.psy-ab..0.17.1294...0i131k1j0i10k1._yhSj2HVm1k:248:180
+@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:252:1
+@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:2:1
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+Ht.prototype.open@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:172:326
+Ht@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:171:182
+_.k.ah/<@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:204:266
+_.k.Nd@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:196:141
+sa.prototype.Pa@https://www.google.pl/search?source=hp&q=google+chrome&oq=google+chrome&gs_l=psy-ab.3..0l4.340.2723.0.2879.17.14.3.0.0.0.122.1274.8j6.14.0....0...1.1.64.psy-ab..0.17.1294...0i131k1j0i10k1._yhSj2HVm1k:21:129
+ta.prototype.Pa@https://www.google.pl/search?source=hp&q=google+chrome&oq=google+chrome&gs_l=psy-ab.3..0l4.340.2723.0.2879.17.14.3.0.0.0.122.1274.8j6.14.0....0...1.1.64.psy-ab..0.17.1294...0i131k1j0i10k1._yhSj2HVm1k:22:249
+@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:252:115
+_.Yg@https://www.google.pl/search?source=hp&q=google+chrome&oq=google+chrome&gs_l=psy-ab.3..0l4.340.2723.0.2879.17.14.3.0.0.0.122.1274.8j6.14.0....0...1.1.64.psy-ab..0.17.1294...0i131k1j0i10k1._yhSj2HVm1k:248:180
+@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:252:1
+@https://www.gstatic.com/og/_/js/k=og.og2.en_US.mJGtuKTYY5s.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTtHDegzN9YR5crpNceRHN3YHmPJ_w:2:1
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:13593:9
+_callProgressListeners/<@chrome://browser/content/tabbrowser.xml:539:24
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:536:13
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:583:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:737:1
+s_9d@https://www.google.pl/xjs/_/js/k=xjs.s.pl.KmS3OQcm9JU.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,d,csi/am=wCJGjhccAPk_IRQStxAWyAImDiA/rt=j/d=1/t=zcms/rs=ACT90oGbusXIPt2NgCK3dJkDoL3hCUwx6A:137:49
+s_ne@https://www.google.pl/xjs/_/js/k=xjs.s.pl.KmS3OQcm9JU.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,d,csi/am=wCJGjhccAPk_IRQStxAWyAImDiA/rt=j/d=1/t=zcms/rs=ACT90oGbusXIPt2NgCK3dJkDoL3hCUwx6A:140:265
+@https://www.google.pl/xjs/_/js/k=xjs.s.pl.KmS3OQcm9JU.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,d,csi/am=wCJGjhccAPk_IRQStxAWyAImDiA/rt=j/d=1/t=zcms/rs=ACT90oGbusXIPt2NgCK3dJkDoL3hCUwx6A:1000:277
+s_Dba@https://www.google.pl/xjs/_/js/k=xjs.s.pl.KmS3OQcm9JU.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,d,csi/am=wCJGjhccAPk_IRQStxAWyAImDiA/rt=j/d=1/t=zcms/rs=ACT90oGbusXIPt2NgCK3dJkDoL3hCUwx6A:75:397
+s_Bba@https://www.google.pl/xjs/_/js/k=xjs.s.pl.KmS3OQcm9JU.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,d,csi/am=wCJGjhccAPk_IRQStxAWyAImDiA/rt=j/d=1/t=zcms/rs=ACT90oGbusXIPt2NgCK3dJkDoL3hCUwx6A:76:415
+s_zba/b<@https://www.google.pl/xjs/_/js/k=xjs.s.pl.KmS3OQcm9JU.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,d,csi/am=wCJGjhccAPk_IRQStxAWyAImDiA/rt=j/d=1/t=zcms/rs=ACT90oGbusXIPt2NgCK3dJkDoL3hCUwx6A:73:219
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+n@https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.pl.cPhar8_a7NQ.O/m=plusone/rt=j/sv=1/d=1/ed=1/am=AQ/rs=AGLTcCMuSsDWJvhzKf3DiYQzIgEq4wb8rg/cb=gapi.loaded_0:168:492
+q@https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.pl.cPhar8_a7NQ.O/m=plusone/rt=j/sv=1/d=1/ed=1/am=AQ/rs=AGLTcCMuSsDWJvhzKf3DiYQzIgEq4wb8rg/cb=gapi.loaded_0:169:154
+w@https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.pl.cPhar8_a7NQ.O/m=plusone/rt=j/sv=1/d=1/ed=1/am=AQ/rs=AGLTcCMuSsDWJvhzKf3DiYQzIgEq4wb8rg/cb=gapi.loaded_0:170:263
+I@https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.pl.cPhar8_a7NQ.O/m=plusone/rt=j/sv=1/d=1/ed=1/am=AQ/rs=AGLTcCMuSsDWJvhzKf3DiYQzIgEq4wb8rg/cb=gapi.loaded_0:171:364
+rE@https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.pl.cPhar8_a7NQ.O/m=auth/exm=plusone/rt=j/sv=1/d=1/ed=1/am=AQ/rs=AGLTcCMuSsDWJvhzKf3DiYQzIgEq4wb8rg/cb=gapi.loaded_1:176:381
+_.Xw@https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.pl.cPhar8_a7NQ.O/m=auth/exm=plusone/rt=j/sv=1/d=1/ed=1/am=AQ/rs=AGLTcCMuSsDWJvhzKf3DiYQzIgEq4wb8rg/cb=gapi.loaded_1:177:244
+@https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.pl.cPhar8_a7NQ.O/m=auth/exm=plusone/rt=j/sv=1/d=1/ed=1/am=AQ/rs=AGLTcCMuSsDWJvhzKf3DiYQzIgEq4wb8rg/cb=gapi.loaded_1:191:92
+Lb/<@https://apis.google.com/js/plusone.js:18:157
+Kb@https://apis.google.com/js/plusone.js:21:173
+Lb@https://apis.google.com/js/plusone.js:18:87
+Mb/u@https://apis.google.com/js/plusone.js:20:93
+Mb/J[K]/b@https://apis.google.com/js/plusone.js:20:323
+Mb/J[K]@https://apis.google.com/js/plusone.js:20:427
+Mb/D[Ka]@https://apis.google.com/js/plusone.js:20:487
+@https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.pl.cPhar8_a7NQ.O/m=auth/exm=plusone/rt=j/sv=1/d=1/ed=1/am=AQ/rs=AGLTcCMuSsDWJvhzKf3DiYQzIgEq4wb8rg/cb=gapi.loaded_1:1:10
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:13593:9
+_callProgressListeners/<@chrome://browser/content/tabbrowser.xml:539:24
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:536:13
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:583:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:737:1
+tl@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:408:316
+e.track@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:409:108
+e.kf@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:409:36
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+get_contentWindow@chrome://global/content/bindings/browser.xml:412:54
+get_securityUI@chrome://global/content/bindings/browser.xml:662:17
+browser_XBL_Constructor@chrome://global/content/bindings/browser.xml:786:17
+Ki@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:322:390
+jo@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:521:281
+e.Am@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:520:237
+e.vq@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:539:374
+Bd@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:63:459
+e.dispatchEvent@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:62:355
+e.kr@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:260:346
+zd@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:59:68
+ud@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:61:76
+sd/b<@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:57:48
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+Ki@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:322:390
+jo@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:521:281
+e.Am@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:520:237
+e.vq@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:539:374
+Bd@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:63:459
+e.dispatchEvent@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:62:355
+e.kr@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:260:346
+zd@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:59:68
+ud@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:61:76
+sd/b<@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:57:48
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+Ki@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:322:390
+jo@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:521:281
+e.Am@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:520:237
+e.vq@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:539:374
+Bd@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:63:459
+e.dispatchEvent@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:62:355
+e.kr@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:260:346
+zd@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:59:68
+ud@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:61:76
+sd/b<@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:57:48
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+Ki@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:322:390
+jo@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:521:281
+e.Am@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:520:237
+e.vq@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:539:374
+Bd@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:63:459
+e.dispatchEvent@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:62:355
+e.kr@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:260:346
+zd@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:59:68
+ud@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:61:76
+sd/b<@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:57:48
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+Ki@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:322:390
+jo@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:521:281
+e.Am@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:520:237
+e.vq@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:539:374
+Bd@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:63:459
+e.dispatchEvent@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:62:355
+e.kr@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:260:346
+zd@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:59:68
+ud@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:61:76
+sd/b<@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:57:48
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+n@https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.pl.cPhar8_a7NQ.O/m=plusone/rt=j/sv=1/d=1/ed=1/am=AQ/rs=AGLTcCMuSsDWJvhzKf3DiYQzIgEq4wb8rg/cb=gapi.loaded_0:168:492
+q@https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.pl.cPhar8_a7NQ.O/m=plusone/rt=j/sv=1/d=1/ed=1/am=AQ/rs=AGLTcCMuSsDWJvhzKf3DiYQzIgEq4wb8rg/cb=gapi.loaded_0:169:154
+w@https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.pl.cPhar8_a7NQ.O/m=plusone/rt=j/sv=1/d=1/ed=1/am=AQ/rs=AGLTcCMuSsDWJvhzKf3DiYQzIgEq4wb8rg/cb=gapi.loaded_0:170:263
+I@https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.pl.cPhar8_a7NQ.O/m=plusone/rt=j/sv=1/d=1/ed=1/am=AQ/rs=AGLTcCMuSsDWJvhzKf3DiYQzIgEq4wb8rg/cb=gapi.loaded_0:171:364
+rE@https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.pl.cPhar8_a7NQ.O/m=auth/exm=plusone/rt=j/sv=1/d=1/ed=1/am=AQ/rs=AGLTcCMuSsDWJvhzKf3DiYQzIgEq4wb8rg/cb=gapi.loaded_1:176:381
+_.Xw@https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.pl.cPhar8_a7NQ.O/m=auth/exm=plusone/rt=j/sv=1/d=1/ed=1/am=AQ/rs=AGLTcCMuSsDWJvhzKf3DiYQzIgEq4wb8rg/cb=gapi.loaded_1:177:244
+@https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.pl.cPhar8_a7NQ.O/m=auth/exm=plusone/rt=j/sv=1/d=1/ed=1/am=AQ/rs=AGLTcCMuSsDWJvhzKf3DiYQzIgEq4wb8rg/cb=gapi.loaded_1:191:92
+Lb/<@https://apis.google.com/js/plusone.js:18:157
+Kb@https://apis.google.com/js/plusone.js:21:173
+Lb@https://apis.google.com/js/plusone.js:18:87
+Mb/u@https://apis.google.com/js/plusone.js:20:93
+Mb/J[K]/b@https://apis.google.com/js/plusone.js:20:323
+Mb/J[K]@https://apis.google.com/js/plusone.js:20:427
+Mb/D[Ka]@https://apis.google.com/js/plusone.js:20:487
+@https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.pl.cPhar8_a7NQ.O/m=auth/exm=plusone/rt=j/sv=1/d=1/ed=1/am=AQ/rs=AGLTcCMuSsDWJvhzKf3DiYQzIgEq4wb8rg/cb=gapi.loaded_1:1:10
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+n@https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.pl.cPhar8_a7NQ.O/m=plusone/rt=j/sv=1/d=1/ed=1/am=AQ/rs=AGLTcCMuSsDWJvhzKf3DiYQzIgEq4wb8rg/cb=gapi.loaded_0:168:492
+q@https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.pl.cPhar8_a7NQ.O/m=plusone/rt=j/sv=1/d=1/ed=1/am=AQ/rs=AGLTcCMuSsDWJvhzKf3DiYQzIgEq4wb8rg/cb=gapi.loaded_0:169:154
+w@https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.pl.cPhar8_a7NQ.O/m=plusone/rt=j/sv=1/d=1/ed=1/am=AQ/rs=AGLTcCMuSsDWJvhzKf3DiYQzIgEq4wb8rg/cb=gapi.loaded_0:170:263
+I@https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.pl.cPhar8_a7NQ.O/m=plusone/rt=j/sv=1/d=1/ed=1/am=AQ/rs=AGLTcCMuSsDWJvhzKf3DiYQzIgEq4wb8rg/cb=gapi.loaded_0:171:364
+rE@https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.pl.cPhar8_a7NQ.O/m=auth/exm=plusone/rt=j/sv=1/d=1/ed=1/am=AQ/rs=AGLTcCMuSsDWJvhzKf3DiYQzIgEq4wb8rg/cb=gapi.loaded_1:176:381
+_.Xw@https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.pl.cPhar8_a7NQ.O/m=auth/exm=plusone/rt=j/sv=1/d=1/ed=1/am=AQ/rs=AGLTcCMuSsDWJvhzKf3DiYQzIgEq4wb8rg/cb=gapi.loaded_1:177:244
+@https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.pl.cPhar8_a7NQ.O/m=auth/exm=plusone/rt=j/sv=1/d=1/ed=1/am=AQ/rs=AGLTcCMuSsDWJvhzKf3DiYQzIgEq4wb8rg/cb=gapi.loaded_1:191:92
+Lb/<@https://apis.google.com/js/plusone.js:18:157
+Kb@https://apis.google.com/js/plusone.js:21:173
+Lb@https://apis.google.com/js/plusone.js:18:87
+Mb/u@https://apis.google.com/js/plusone.js:20:93
+Mb/J[K]/b@https://apis.google.com/js/plusone.js:20:323
+Mb/J[K]@https://apis.google.com/js/plusone.js:20:427
+Mb/D[Ka]@https://apis.google.com/js/plusone.js:20:487
+@https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.pl.cPhar8_a7NQ.O/m=auth/exm=plusone/rt=j/sv=1/d=1/ed=1/am=AQ/rs=AGLTcCMuSsDWJvhzKf3DiYQzIgEq4wb8rg/cb=gapi.loaded_1:1:10
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:13593:9
+_callProgressListeners/<@chrome://browser/content/tabbrowser.xml:539:24
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:536:13
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:583:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:737:1
+tl@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:408:316
+e.track@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:409:108
+e.kf@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:409:36
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+get_contentWindow@chrome://global/content/bindings/browser.xml:412:54
+get_securityUI@chrome://global/content/bindings/browser.xml:662:17
+browser_XBL_Constructor@chrome://global/content/bindings/browser.xml:786:17
+Ki@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:322:390
+jo@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:521:281
+e.Am@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:520:237
+e.vq@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:539:374
+Bd@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:63:459
+e.dispatchEvent@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:62:355
+e.kr@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:260:346
+zd@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:59:68
+ud@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:61:76
+sd/b<@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:57:48
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+Ki@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:322:390
+jo@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:521:281
+e.Am@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:520:237
+e.vq@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:539:374
+Bd@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:63:459
+e.dispatchEvent@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:62:355
+e.kr@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:260:346
+zd@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:59:68
+ud@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:61:76
+sd/b<@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:57:48
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+Ki@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:322:390
+jo@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:521:281
+e.Am@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:520:237
+e.vq@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:539:374
+Bd@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:63:459
+e.dispatchEvent@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:62:355
+e.kr@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:260:346
+zd@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:59:68
+ud@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:61:76
+sd/b<@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:57:48
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+Ki@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:322:390
+jo@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:521:281
+e.Am@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:520:237
+e.vq@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:539:374
+Bd@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:63:459
+e.dispatchEvent@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:62:355
+e.kr@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:260:346
+zd@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:59:68
+ud@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:61:76
+sd/b<@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:57:48
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+Ki@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:322:390
+jo@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:521:281
+e.Am@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:520:237
+e.vq@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:539:374
+Bd@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:63:459
+e.dispatchEvent@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:62:355
+e.kr@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:260:346
+zd@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:59:68
+ud@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:61:76
+sd/b<@https://www.google.pl/chrome/assets/common/js/chrome-installer.min.js:57:48
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+n@https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.pl.cPhar8_a7NQ.O/m=plusone/rt=j/sv=1/d=1/ed=1/am=AQ/rs=AGLTcCMuSsDWJvhzKf3DiYQzIgEq4wb8rg/cb=gapi.loaded_0:168:492
+q@https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.pl.cPhar8_a7NQ.O/m=plusone/rt=j/sv=1/d=1/ed=1/am=AQ/rs=AGLTcCMuSsDWJvhzKf3DiYQzIgEq4wb8rg/cb=gapi.loaded_0:169:154
+w@https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.pl.cPhar8_a7NQ.O/m=plusone/rt=j/sv=1/d=1/ed=1/am=AQ/rs=AGLTcCMuSsDWJvhzKf3DiYQzIgEq4wb8rg/cb=gapi.loaded_0:170:263
+I@https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.pl.cPhar8_a7NQ.O/m=plusone/rt=j/sv=1/d=1/ed=1/am=AQ/rs=AGLTcCMuSsDWJvhzKf3DiYQzIgEq4wb8rg/cb=gapi.loaded_0:171:364
+rE@https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.pl.cPhar8_a7NQ.O/m=auth/exm=plusone/rt=j/sv=1/d=1/ed=1/am=AQ/rs=AGLTcCMuSsDWJvhzKf3DiYQzIgEq4wb8rg/cb=gapi.loaded_1:176:381
+_.Xw@https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.pl.cPhar8_a7NQ.O/m=auth/exm=plusone/rt=j/sv=1/d=1/ed=1/am=AQ/rs=AGLTcCMuSsDWJvhzKf3DiYQzIgEq4wb8rg/cb=gapi.loaded_1:177:244
+@https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.pl.cPhar8_a7NQ.O/m=auth/exm=plusone/rt=j/sv=1/d=1/ed=1/am=AQ/rs=AGLTcCMuSsDWJvhzKf3DiYQzIgEq4wb8rg/cb=gapi.loaded_1:191:92
+Lb/<@https://apis.google.com/js/plusone.js:18:157
+Kb@https://apis.google.com/js/plusone.js:21:173
+Lb@https://apis.google.com/js/plusone.js:18:87
+Mb/u@https://apis.google.com/js/plusone.js:20:93
+Mb/J[K]/b@https://apis.google.com/js/plusone.js:20:323
+Mb/J[K]/J[K]@https://apis.google.com/js/plusone.js:20:421
+Mb/J[K]/c@https://apis.google.com/js/plusone.js:20:388
+Mb/J[K]/b/<@https://apis.google.com/js/plusone.js:20:352
+hb@https://apis.google.com/js/plusone.js:12:467
+Mb/J[K]/b@https://apis.google.com/js/plusone.js:20:331
+Mb/J[K]@https://apis.google.com/js/plusone.js:20:427
+Mb/D[Ka]@https://apis.google.com/js/plusone.js:20:487
+@https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.pl.cPhar8_a7NQ.O/m=plusone/rt=j/sv=1/d=1/ed=1/am=AQ/rs=AGLTcCMuSsDWJvhzKf3DiYQzIgEq4wb8rg/cb=gapi.loaded_0:1:10
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+2017-09-13 11:12:59,668 - softwarecenter.ui.gtk3.app - INFO - setting up proxy 'None'
+2017-09-13 11:12:59,668 - softwarecenter.ui.gtk3.app - INFO - setting up proxy 'None'
+2017-09-13 11:13:01,662 - softwarecenter.region - WARNING - failed to use geoclue: 'org.freedesktop.Geoclue.Error.notAvailable: Geoclue master client has no usable Address providers'
+2017-09-13 11:13:01,662 - softwarecenter.region - WARNING - failed to use geoclue: 'org.freedesktop.Geoclue.Error.notAvailable: Geoclue master client has no usable Address providers'
+2017-09-13 11:13:02,039 - softwarecenter.backend.reviews - WARNING - Could not get usefulness from server, no username in config file
+2017-09-13 11:13:02,040 - softwarecenter.backend.reviews - WARNING - Could not get usefulness from server, no username in config file
+2017-09-13 11:13:02,056 - softwarecenter.plugin - INFO - activating plugin '<module 'webapps_activation' from '/usr/share/software-center/softwarecenter/plugins/webapps_activation.pyc'>'
+2017-09-13 11:13:02,057 - softwarecenter.plugin - INFO - activating plugin '<module 'webapps_activation' from '/usr/share/software-center/softwarecenter/plugins/webapps_activation.pyc'>'
+2017-09-13 11:13:02,151 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2017-09-13 11:13:02,151 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2017-09-13 11:13:03,324 - softwarecenter.backend.reviews - WARNING - error creating bsddb: '(22, 'Z\xc5\x82y argument -- BDB0054 illegal flag combination specified to DB_ENV->open')' (corrupted?)
+2017-09-13 11:13:03,324 - softwarecenter.backend.reviews - WARNING - error creating bsddb: '(22, 'Z\xc5\x82y argument -- BDB0054 illegal flag combination specified to DB_ENV->open')' (corrupted?)
+2017-09-13 11:13:03,325 - softwarecenter.backend.reviews - ERROR - trying to repair DB failed
+Traceback (most recent call last):
+  File "/usr/share/software-center/softwarecenter/backend/reviews/__init__.py", line 358, in _save_review_stats_cache_blocking
+    self._dump_bsddbm_for_unity(outfile, outdir)
+  File "/usr/share/software-center/softwarecenter/backend/reviews/__init__.py", line 377, in _dump_bsddbm_for_unity
+    0600)
+DBInvalidArgError: (22, 'Z\xc5\x82y argument -- BDB0054 illegal flag combination specified to DB_ENV->open')
+2017-09-13 11:13:03,325 - softwarecenter.backend.reviews - ERROR - trying to repair DB failed
+Traceback (most recent call last):
+  File "/usr/share/software-center/softwarecenter/backend/reviews/__init__.py", line 358, in _save_review_stats_cache_blocking
+    self._dump_bsddbm_for_unity(outfile, outdir)
+  File "/usr/share/software-center/softwarecenter/backend/reviews/__init__.py", line 377, in _dump_bsddbm_for_unity
+    0600)
+DBInvalidArgError: (22, 'Z\xc5\x82y argument -- BDB0054 illegal flag combination specified to DB_ENV->open')
+/usr/lib/python2.7/dist-packages/gi/overrides/GLib.py:535: Warning: Source ID 69 was not found when attempting to remove it
+  return super(MainContext, self).iteration(may_block)
+/usr/lib/python2.7/dist-packages/gi/overrides/GLib.py:535: Warning: Source ID 69 was not found when attempting to remove it
+  return super(MainContext, self).iteration(may_block)
+2017-09-13 11:13:09,776 - softwarecenter.fixme - WARNING - logs to the root logger: '('/usr/share/software-center/update-software-center-agent', 105, '<module>')'
+2017-09-13 11:13:09,776 - root - WARNING - Another instance of the update agent already holds a write lock on /home/patryk/.cache/software-center/software-center-agent.db.tmp
+2017-09-13 11:13:09,820 - softwarecenter.db.utils - INFO - software-center-agent finished with status 1
+2017-09-13 11:13:10,210 - softwarecenter.db.utils - INFO - software-center-agent finished with status 0
+/usr/lib/python2.7/dist-packages/gi/overrides/GLib.py:535: Warning: Source ID 198 was not found when attempting to remove it
+  return super(MainContext, self).iteration(may_block)
+/usr/bin/software-center:184: Warning: Source ID 230 was not found when attempting to remove it
+  Gtk.main()
+/usr/lib/python2.7/dist-packages/gi/overrides/GLib.py:535: Warning: Source ID 231 was not found when attempting to remove it
+  return super(MainContext, self).iteration(may_block)
+/usr/bin/software-center:184: Warning: Source ID 242 was not found when attempting to remove it
+  Gtk.main()
+
+###!!! [Child][MessageChannel] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+(gnome-terminal:2643): GLib-GIO-CRITICAL **: g_settings_get: the format string may not contain '&' (key 'monospace-font-name' from schema 'org.gnome.desktop.interface'). This call will probably stop working with a future version of glib.
+polkit-agent-helper-1: pam_authenticate failed: Authentication failure
+/usr/share/software-center/softwarecenter/backend/installbackend_impl/aptd.py:764: Warning: Source ID 2467 was not found when attempting to remove it
+  GLib.source_remove(self._progress_signal)
+/usr/share/software-center/softwarecenter/backend/installbackend_impl/aptd.py:764: Warning: Source ID 4998 was not found when attempting to remove it
+  GLib.source_remove(self._progress_signal)
+/usr/share/software-center/softwarecenter/backend/installbackend_impl/aptd.py:764: Warning: Source ID 2525 was not found when attempting to remove it
+  GLib.source_remove(self._progress_signal)
+/usr/share/software-center/softwarecenter/backend/installbackend_impl/aptd.py:764: Warning: Source ID 4999 was not found when attempting to remove it
+  GLib.source_remove(self._progress_signal)
+/usr/share/software-center/softwarecenter/ui/gtk3/models/pendingstore.py:64: Warning: Source ID 5000 was not found when attempting to remove it
+  GLib.source_remove(sig)
+/usr/share/software-center/softwarecenter/ui/gtk3/models/pendingstore.py:64: Warning: Source ID 5001 was not found when attempting to remove it
+  GLib.source_remove(sig)
+/usr/share/software-center/softwarecenter/ui/gtk3/models/pendingstore.py:64: Warning: Source ID 5002 was not found when attempting to remove it
+  GLib.source_remove(sig)
+/usr/share/software-center/softwarecenter/ui/gtk3/models/pendingstore.py:64: Warning: Source ID 5003 was not found when attempting to remove it
+  GLib.source_remove(sig)
+/usr/share/software-center/softwarecenter/backend/installbackend_impl/aptd.py:764: Warning: Source ID 2526 was not found when attempting to remove it
+  GLib.source_remove(self._progress_signal)
+/usr/share/software-center/softwarecenter/ui/gtk3/models/pendingstore.py:64: Warning: Source ID 2527 was not found when attempting to remove it
+  GLib.source_remove(sig)
+/usr/share/software-center/softwarecenter/ui/gtk3/models/pendingstore.py:64: Warning: Source ID 2528 was not found when attempting to remove it
+  GLib.source_remove(sig)
+/usr/share/software-center/softwarecenter/ui/gtk3/models/pendingstore.py:64: Warning: Source ID 2529 was not found when attempting to remove it
+  GLib.source_remove(sig)
+/usr/share/software-center/softwarecenter/ui/gtk3/models/pendingstore.py:64: Warning: Source ID 2530 was not found when attempting to remove it
+  GLib.source_remove(sig)
+2017-09-13 11:14:44,337 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()

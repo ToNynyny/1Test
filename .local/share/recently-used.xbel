@@ -41,4 +41,14 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///tmp/google-chrome-stable_current_amd64.deb" added="2017-09-13T09:06:03Z" modified="2017-09-13T09:12:57Z" visited="2017-09-13T09:06:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-deb"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-13T09:12:57Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>
